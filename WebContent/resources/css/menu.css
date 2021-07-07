@@ -1,0 +1,15 @@
+*{
+	box-sizing: borderbox;
+}
+
+.menu-info{
+	margin-top:15px;
+	display:block;
+	white-space: nowrap;
+	overflow: hidden; 
+	text-overflow: ellipsis;
+	padding:2px;
+}
+a{
+	color:white;
+}

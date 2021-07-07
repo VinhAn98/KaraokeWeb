@@ -1,0 +1,20 @@
+*{
+	box-sizing: borderbox;
+}
+
+
+.content-board{
+	text-align:center;
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	background-color: coral;
+		
+}
+#mymodal{
+	margin-left:250px;
+}
+img {
+	margin-bottom:20px;
+	
+}
